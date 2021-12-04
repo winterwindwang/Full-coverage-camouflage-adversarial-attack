@@ -6,7 +6,7 @@
 >
 > [neural renderer]: https://github.com/daniilidis-group/neural_renderer.git	"neural renderer"
 >
-> before you running the code, you must install the `neural renderer` python package. You can pull our implementation, which is slight different to daniilidis.
+> before you running the code, you must install the `neural renderer` python package. You can pull our implementation [here](https://github.com/winterwindwang/neural_renderer), which is slight different to daniilidis.
 
 If there is any question, please contact us without hesitate.
 
