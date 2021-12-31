@@ -8,5 +8,5 @@
 + test_label_new folder as the same to train_label_new folder
 ## Note that
 1. After you download the dataset and place them into each folder, you should create a yaml in data folder, see data/carala.yaml for example. 
-2. To run compute the adversarial loss, you need to get the label(annotation) for each image. In our implementation, for simplicity, we used the Faster RCNN to inference each rendered image(due to the character of rendered image, we can get relatively accuracy label) and get the corresponding label. We provide the parts of label used in our experiment in :链接：https://pan.baidu.com/s/1A-LTCfo7P6PjRPkpBm2LMg 
-提取码：tm3m.
+2. To run compute the adversarial loss, you need to get the label(annotation) for each image. In our implementation, for simplicity, we used the Faster RCNN to inference each rendered image(due to the character of rendered image, we can get relatively accuracy label) and get the corresponding label. We provide the parts of label used in our experiment in：https://pan.baidu.com/s/1A-LTCfo7P6PjRPkpBm2LMg 
+code：tm3m.
