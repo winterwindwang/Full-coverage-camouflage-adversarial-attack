@@ -252,8 +252,7 @@ def make_log_dir(logs):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    # hyperparameter for training adversarial camouflage
+    parser = argparse.ArgumentParser(description="hyperparameter for training adversarial camouflage")
     # ------------------------------------#
     parser.add_argument('--weights', type=str, default='yolov3.pt', help='initial weights path')
     parser.add_argument('--cfg', type=str, default='', help='model.yaml path')
